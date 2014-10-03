@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 tesfdsfsdf
 test2
 test3
 test4
-=======
-tesfdsfsdf
->>>>>>> parent of 4a95c2a... test2
-=======
-tesfdsfsdf
->>>>>>> parent of 4a95c2a... test2
